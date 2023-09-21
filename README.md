@@ -1,5 +1,12 @@
 # MultiplayerSession-Plugin
 
+## Table of Contents
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+  
 ### Introduction
 This GitHub project is a C++ plugin for Unreal Engine Online Steam session creation and joining.
 
