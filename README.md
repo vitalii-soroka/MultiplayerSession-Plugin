@@ -7,17 +7,18 @@
 - [Usage](#usage)
 
 ### Introduction
-This GitHub project is a C++ plugin for Unreal Engine Online Steam session creation and joining.
-
+This GitHub project is a C++ plugin for creating, finding, and joining Unreal Engine Online Steam sessions.
 
 ### Technologies used:
 
 The Multiplayer Session plugin is built using the following technologies and tools:
 - C++ programming language for the application logic
-- 
+- Unreal Engine 5 Online Steam subsystem for multiplayer connection.
   
 ### Features
-1.
+1. Easy to use multiplayer with Steam.
+2. The built-in User Widget Menu with main functionality.
+3. Host or find online sessions.
 
 ### Installation:
 1. [ ] Download Multiplayer Session plugin.
